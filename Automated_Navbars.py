@@ -44,7 +44,7 @@ time.sleep(3)
 driver.find_element(By.XPATH, '//*[@id="app"]/div[1]/div[1]/header/div[2]/nav/ul/li[4]/span').click()
 time.sleep(3)
 
-driver.find_element(By.XPATH, '//*[@id="app"]/div[1]/div[1]/header/div[2]/nav/ul/li[6]/a').click()
+driver.find_element(By.XPATH, '//*[@id="app"]/div[1]/div[1]/header/div[2]/nav/ul/li[6]/agit').click()
 time.sleep(3)
 
 
